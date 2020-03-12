@@ -3,7 +3,7 @@ def texas(black,white):
 
     :param black:
     :param white:
-    :return:
+    :return: type,order of comparision
     >>> texas('2H 3D 5S 9C KD', '2C 3H 4S 8C AH')
     'White wins'
     >>> texas('2H 4S 4C 2D 4H', '2S 8S AS QS 3S')
